@@ -6,7 +6,8 @@
 
   <groupId>com.gmail</groupId>
   <artifactId>gmail</artifactId>
-  <version>1.0</version>
+  <version>1.14</version>
+  
   <name>gmail</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
