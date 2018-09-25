@@ -4,7 +4,7 @@ package com.gmail;
  * Hello world!
  *
  */
-public class maincode 
+public class maincode1
 {
     public static void main( String[] args )
     {
