@@ -1,0 +1,42 @@
+pipeline {
+
+    agent { node { label 'Group1' } }
+  
+stages { 
+
+stage ('package') 
+{
+          
+steps 
+{
+
+echo 'package'
+}
+      
+}
+       
+stage ('install') 
+{
+ 
+steps  
+{
+       
+        echo 'install'
+           
+}
+       
+}
+       
+}
+
+}
+
+
+
+
+
+
+
+
+
+
