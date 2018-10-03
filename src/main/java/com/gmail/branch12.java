@@ -4,7 +4,7 @@ package com.gmail;
  * Hello world!
  *
  */
-public class branch1
+public class branch12
 {
     public static void main( String[] args )
     {
